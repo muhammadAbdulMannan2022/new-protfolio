@@ -14,6 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://abdulmannandev.vercel.app"),
   title: "Md. Abdul Mannan | React Developer & Node Developer | Immersive 3D Portfolio",
   description: "Immersive 3D WebGL portfolio of Md. Abdul Mannan, a professional React Developer & Node Developer. Specializing in high-performance Next.js layouts, cross-platform React Native apps, and secure Node.js WebSocket API servers.",
   keywords: [
